@@ -1,6 +1,11 @@
 package Esercizi;
+import java.util.Scanner;
+
+
 
 public class main {
+
+	static Scanner scanner = new Scanner(System.in);
 
 
 	public static void main(String[] args) {
@@ -45,6 +50,17 @@ public class main {
 		sim3.setChiamata(66666666, 3.25);
 		SIM.mostraSim();
 		
+		//// ESERCIZIO 3
+		
+		Articolo art1 = new Articolo("descrizione", 50.80);
+		
+		
+		
+		
+		
+		
+		
+
 		
 		
 		
